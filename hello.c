@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 int main(int argc, char *argv[]) {
-  puts("Did the new commit trigger a build?!");
+  puts("TEST COMMIT FOR SERVER 2!");
   return EXIT_SUCCESS;
 }
