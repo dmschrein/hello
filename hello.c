@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 int main(int argc, char *argv[]) {
-  puts("TEST COMMIT FOR SERVER 8!");
+  puts("TEST COMMIT FOR SERVER 9!");
   return EXIT_SUCCESS;
 }
