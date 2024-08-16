@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 int main(int argc, char *argv[]) {
-  puts("TEST COMMIT FOR HELLO-MAIN 2");
+  puts("TEST COMMIT FOR HELLO-MAIN 3";
   return EXIT_SUCCESS;
 }
